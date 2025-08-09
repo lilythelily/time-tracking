@@ -217,7 +217,7 @@ footer {
   }
 }
 
-@media screen and (max-width: 53.75rem) {
+@media screen and (max-width: 55rem) {
   main {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;
